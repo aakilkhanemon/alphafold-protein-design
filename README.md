@@ -1,1 +1,1 @@
-# alphafold-protein-design
+# Deep-Learning De-Orphanization and Inhibitor Discovery Pipeline
